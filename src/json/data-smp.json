@@ -1,0 +1,4505 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219506",
+				"nama": "SMP MUSLIMIN 5",
+				"alamat_jalan": "Jl. Manisi No.2 Bunderan Cibiru",
+				"desa_kelurahan_id": "Pasir Biru",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7195,
+					-6.9274
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219379",
+				"nama": "SMP NEGERI 5",
+				"alamat_jalan": "Jl. Sumatra No. 40",
+				"desa_kelurahan_id": "Merdeka",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6141,
+					-6.9146
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219352",
+				"nama": "SMP YPU Bandung",
+				"alamat_jalan": "Jl. Cukangjati No. 5 Gatot Subroto",
+				"desa_kelurahan_id": "Samoja",
+				"kecamatan": "Kec. Batununggal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6288,
+					-6.9237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20252049",
+				"nama": "SMP PLUS OTISTA",
+				"alamat_jalan": "Jl. Cipamokolan No. 90",
+				"desa_kelurahan_id": "Cipamokolan",
+				"kecamatan": "Kec. Rancasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6776,
+					-6.9411
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219404",
+				"nama": "SMP NEGERI 3",
+				"alamat_jalan": "Jl. Rd. Dewi Sartika No. 96",
+				"desa_kelurahan_id": "Pungkur",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6053,
+					-6.9292
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20258520",
+				"nama": "SMP GRACIA",
+				"alamat_jalan": "Jl. Cibadak Gg. Sereh No. 26",
+				"desa_kelurahan_id": "Cibadak",
+				"kecamatan": "Kec. Astanaanyar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6066,
+					-6.9222
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219441",
+				"nama": "SMP MUHAMMADIYAH 4",
+				"alamat_jalan": "Jl. Andir-RI Winata Bandung",
+				"desa_kelurahan_id": "Dungus Cariang",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5832,
+					-6.9121
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219411",
+				"nama": "SMP NEGERI 30",
+				"alamat_jalan": "Jl. Sekejati No.23",
+				"desa_kelurahan_id": "Sukapura",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6447,
+					-6.9406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219422",
+				"nama": "SMP NEGERI 33",
+				"alamat_jalan": "Jl. Babakan Tarogong",
+				"desa_kelurahan_id": "Babakan Tarogong",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5882,
+					-6.9279
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219349",
+				"nama": "SMP NEGERI 18",
+				"alamat_jalan": "Jl. SMP No 5-6 Terusan Kiaracondong",
+				"desa_kelurahan_id": "Margasari",
+				"kecamatan": "Kec. Buahbatu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6418,
+					-6.952
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20252350",
+				"nama": "SMP JENDERAL SUDIRMAN",
+				"alamat_jalan": "Jl. Babakan Tarogong 119",
+				"desa_kelurahan_id": "Suka Asih",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.592,
+					-6.9329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219505",
+				"nama": "SMP MUTIARA 1",
+				"alamat_jalan": "Jl. Maleber Utara No.37",
+				"desa_kelurahan_id": "Garuda",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5897,
+					-6.9282
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219500",
+				"nama": "SMP NUSANTARA",
+				"alamat_jalan": "Jl. Kopo No.322",
+				"desa_kelurahan_id": "Kopo",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5918,
+					-6.9418
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219432",
+				"nama": "SMP KEMAH INDONESIA 4",
+				"alamat_jalan": "Jl. Sadang Serang BLK No. 2 RT 03/13",
+				"desa_kelurahan_id": "Sekeloa",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.625045,
+					-6.887687
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219338",
+				"nama": "SMP YWKA",
+				"alamat_jalan": "Jl. Elang II No. 2",
+				"desa_kelurahan_id": "Garuda",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5759,
+					-6.914
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219493",
+				"nama": "SMP PGRI 4",
+				"alamat_jalan": "Jl. Gunung Batu 30",
+				"desa_kelurahan_id": "Sukaraja",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.562,
+					-6.8909
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219360",
+				"nama": "SMP SANTO YUSUP",
+				"alamat_jalan": "Jl. Sulaksana Baru I No. 18",
+				"desa_kelurahan_id": "Cicaheum",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6619,
+					-6.9053
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "60726214",
+				"nama": "SMP HIKMAH TELADAN",
+				"alamat_jalan": "Jl. Raya Cilember Blk No. 286",
+				"desa_kelurahan_id": "Sukaraja",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.609,
+					-6.8548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219447",
+				"nama": "SMP MIFTAHUL IMAN",
+				"alamat_jalan": "Jl. Dr. Setiabudhi 179/171 A RT 05 RW 04",
+				"desa_kelurahan_id": "Isola",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5936,
+					-6.8546
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69774738",
+				"nama": "SMP SETIA BHAKTI",
+				"alamat_jalan": "JL.KAWALUYAAN NO. 12 SOEKARNO HATTA",
+				"desa_kelurahan_id": "Jati Sari",
+				"kecamatan": "Kec. Buahbatu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6753,
+					-6.9572
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219202",
+				"nama": "SMP BPPI BOJONG",
+				"alamat_jalan": "Jl. Kapur Rt 04 / Rw 10 Bojong Raya",
+				"desa_kelurahan_id": "Cibuntu",
+				"kecamatan": "Kec. Bandung Kulon"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5711,
+					-6.926
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219462",
+				"nama": "SMP KRISTEN 2 BINA BAKTI",
+				"alamat_jalan": "Jl. Bima No. 9",
+				"desa_kelurahan_id": "Arjuna",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5979,
+					-6.9074
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219371",
+				"nama": "SMP YAYASAN BUDI BAKTI",
+				"alamat_jalan": "Jl. Citepus II No. 3",
+				"desa_kelurahan_id": "Pajajaran",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5879,
+					-6.9021
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20280599",
+				"nama": "SLB ABCD LOB",
+				"alamat_jalan": "Jl. Manglayang I No. 7 ",
+				"desa_kelurahan_id": "Palasari",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.724543,
+					-6.913808
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219185",
+				"nama": "SMP BINA DHARMA 3",
+				"alamat_jalan": "Jl Geger Kalong Hilir No. 18",
+				"desa_kelurahan_id": "Gegerkalong",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5925,
+					-6.8701
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "60725413",
+				"nama": "SMP AL ISLAM",
+				"alamat_jalan": "Jl.Cilengkrang I RT.05/RW.06 ",
+				"desa_kelurahan_id": "Cisurupan",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7234,
+					-6.9097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69895404",
+				"nama": "SMP KUNTUM CEMERLANG",
+				"alamat_jalan": "Jl. Cipaku Indah XI No. 2",
+				"desa_kelurahan_id": "Ledeng",
+				"kecamatan": "Kec. Cidadap"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.616361,
+					-6.869338
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219515",
+				"nama": "SMP PASUNDAN 2",
+				"alamat_jalan": "Jl. Pasundan No.32",
+				"desa_kelurahan_id": "Balong Gede",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6082,
+					-6.9264
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219367",
+				"nama": "SMP YP SEJATI",
+				"alamat_jalan": "Jl. Kopo Gg. Pakasih No.10",
+				"desa_kelurahan_id": null,
+				"kecamatan": "Kec. Bojong Loa Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5883,
+					-6.9496
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219440",
+				"nama": "SMP MUHAMMADIYAH 5",
+				"alamat_jalan": "Jl. Sariwates Raya No. 6",
+				"desa_kelurahan_id": "Antapani Kidul",
+				"kecamatan": "Kec. Antapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6553,
+					-6.9245
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219473",
+				"nama": "SMP GANESHA",
+				"alamat_jalan": "Jl. Mohamad Toha No.84",
+				"desa_kelurahan_id": "Pelindung Hewan",
+				"kecamatan": "Kec. Astanaanyar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6113,
+					-6.9361
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219449",
+				"nama": "SMP KARTIKA XIX-2",
+				"alamat_jalan": "Jl. Pak Gatot Raya No. 73",
+				"desa_kelurahan_id": "Gegerkalong",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5883,
+					-6.8652
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219221",
+				"nama": "SMP ADVENT NARIPAN",
+				"alamat_jalan": "Jl. Naripan No. 91",
+				"desa_kelurahan_id": "Kebon Pisang",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6123,
+					-6.9186
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219206",
+				"nama": "SMP AL FALAH",
+				"alamat_jalan": "Jl. Cisitu Baru No.52",
+				"desa_kelurahan_id": "Dago",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6132,
+					-6.8828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20251907",
+				"nama": "SMP NEGERI 38",
+				"alamat_jalan": "Jl. Borobudur Cibaduyut RT 03 RW 04",
+				"desa_kelurahan_id": "Cibaduyut Kidul",
+				"kecamatan": "Kec. Bojong Loa Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5913,
+					-6.9586
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219877",
+				"nama": "SLB BC BINA KASIH",
+				"alamat_jalan": "Jl. Cipamokolan Kebon Jeruk Rt 02/07",
+				"desa_kelurahan_id": "Derwati",
+				"kecamatan": "Kec. Rancasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6731,
+					-6.9532
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219201",
+				"nama": "SMP BUNGA BANGSA",
+				"alamat_jalan": "Jl. Dago Bengkok No. 3",
+				"desa_kelurahan_id": "Ciumbuleuit",
+				"kecamatan": "Kec. Cidadap"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6198,
+					-6.8676
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219408",
+				"nama": "SMP NEGERI 26",
+				"alamat_jalan": "Jl. Perumnas Sarijadi Blok 23",
+				"desa_kelurahan_id": "Sukawarna",
+				"kecamatan": "Kec. Sukajadi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5774,
+					-6.8827
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219373",
+				"nama": "SMP YAQIN",
+				"alamat_jalan": "Jl.dr.junjunan No.3",
+				"desa_kelurahan_id": "Pajajaran",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5879,
+					-6.896
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219485",
+				"nama": "SMP PGRI 6",
+				"alamat_jalan": "Jl. Sadang Serang No. 1 Bandung",
+				"desa_kelurahan_id": "Sekeloa",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.562,
+					-6.8907
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219445",
+				"nama": "SMP MUHAMMADIYAH 10",
+				"alamat_jalan": "Jl. A.H.Nasution No.168 Bandung",
+				"desa_kelurahan_id": "Cipadung Kulon",
+				"kecamatan": "Kec. Panyileukan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7073,
+					-6.9282
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "60726290",
+				"nama": "SMP PGRI 11",
+				"alamat_jalan": "Jl.cikutra No.15",
+				"desa_kelurahan_id": "Cikutra",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6426,
+					-6.9023
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219421",
+				"nama": "SMP NEGERI 34",
+				"alamat_jalan": "Jl. Waas Soekarno Hatta",
+				"desa_kelurahan_id": "Batununggal",
+				"kecamatan": "Kec. Bandung Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6259,
+					-6.9503
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20279855",
+				"nama": "SMP DAARUL QURAN",
+				"alamat_jalan": "JL. NAGROG NO. 85 KAMP. CIWARU",
+				"desa_kelurahan_id": "Pasanggrahan",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6038,
+					-6.8505
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20254716",
+				"nama": "SMP PLUS BAITURRAHMAN",
+				"alamat_jalan": "Jl. Prof. KHM SYADELY HASAN NO.44 NAGROG II UJUNG BERUNG",
+				"desa_kelurahan_id": "Pasirjati",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7061,
+					-6.9155
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219745",
+				"nama": "SLB D YPAC",
+				"alamat_jalan": "Jl. Mustang No. 46",
+				"desa_kelurahan_id": "Sukawarna",
+				"kecamatan": "Kec. Sukajadi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5776,
+					-6.8894
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219494",
+				"nama": "SMP PGRI 8",
+				"alamat_jalan": "Jl. Sindangsari I No. 7",
+				"desa_kelurahan_id": "Antapani Wetan",
+				"kecamatan": "Kec. Antapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.665,
+					-6.9082
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219490",
+				"nama": "SMP PLUS AL GHIFARI",
+				"alamat_jalan": "Jl. Cisaranten Kulon No.140",
+				"desa_kelurahan_id": "Cisaranten Kulon",
+				"kecamatan": "Kec. Arcamanik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6795,
+					-6.934
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219385",
+				"nama": "SMP NEGERI 44",
+				"alamat_jalan": "Jl. Cimanuk No.1",
+				"desa_kelurahan_id": "Citarum",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6204,
+					-6.9052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219425",
+				"nama": "SMP MUHAMMADIYAH 9",
+				"alamat_jalan": "Jl. Sumbersari No. 104",
+				"desa_kelurahan_id": "Cisaranten Kulon",
+				"kecamatan": "Kec. Arcamanik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5755,
+					-6.9331
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20247310",
+				"nama": "SMP KARYA NUSANTARA",
+				"alamat_jalan": "Jl. Desa No. 67a",
+				"desa_kelurahan_id": "Babakan Sari",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6519,
+					-6.928
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20280591",
+				"nama": "SLB RISANTYA",
+				"alamat_jalan": "Jl Kota Baru No 30",
+				"desa_kelurahan_id": "Ciateul",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.619165,
+					-6.947702
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69895399",
+				"nama": "SMP TAHFIZHUL QURAN AMANAH UMMAH",
+				"alamat_jalan": "Jl. Cicukang No. 54 RT. 01 RW 09",
+				"desa_kelurahan_id": "Cisaranten Bina Harapan",
+				"kecamatan": "Kec. Arcamanik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.675062,
+					-6.926866
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "60726014",
+				"nama": "SMP AL BIRUNI CERDAS MULIA",
+				"alamat_jalan": "JL. TERUSAN PANYILEUKAN NO. 11 SOEKARNO HATTA",
+				"desa_kelurahan_id": "Cipadung Kidul",
+				"kecamatan": "Kec. Panyileukan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.708,
+					-6.9369
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219189",
+				"nama": "SMP ANGKASA LANUD HUSEIN SASTRANEGARA",
+				"alamat_jalan": "Jl. Pajajaran No.151",
+				"desa_kelurahan_id": null,
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5869,
+					-6.9065
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219438",
+				"nama": "SMP MUHAMMADIYAH 8",
+				"alamat_jalan": "Jl. Kadipaten Raya No.4-6 Antapani Bandung",
+				"desa_kelurahan_id": "Antapani Kidul",
+				"kecamatan": "Kec. Antapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6556,
+					-6.9179
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219191",
+				"nama": "SMP AL HUSAINIYYAH",
+				"alamat_jalan": "Jalan Bukit Jarian 29/165 D",
+				"desa_kelurahan_id": "Hegarmanah",
+				"kecamatan": "Kec. Cidadap"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.594,
+					-6.8741
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219416",
+				"nama": "SMP NEGERI 4",
+				"alamat_jalan": "Jl. Samoja No. 5",
+				"desa_kelurahan_id": "Samoja",
+				"kecamatan": "Kec. Batununggal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6319,
+					-6.9274
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219478",
+				"nama": "SMP PGII 1",
+				"alamat_jalan": "Jl. Panatayuda No. 2",
+				"desa_kelurahan_id": "Lebak Gede",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6333,
+					-6.9004
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219357",
+				"nama": "SMP SWADAYA 2",
+				"alamat_jalan": "Jl. Pagarsih Gg. WD Sastra",
+				"desa_kelurahan_id": "Jamika",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5888,
+					-6.923
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219746",
+				"nama": "SPLB C YPLB",
+				"alamat_jalan": "Jl. Hegar Asih No. 1-3",
+				"desa_kelurahan_id": "Cipaganti",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.618483,
+					-6.897648
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219383",
+				"nama": "SMP NEGERI 46",
+				"alamat_jalan": "Jl. Cigagak",
+				"desa_kelurahan_id": "Cipadung",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7246,
+					-6.9153
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20247312",
+				"nama": "SMP SEBELAS MARET",
+				"alamat_jalan": "Jl. Denki Selatan V No. 38",
+				"desa_kelurahan_id": "Ciseureuh",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6128,
+					-6.9456
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219512",
+				"nama": "SMP PASUNDAN 5",
+				"alamat_jalan": "Jl. Babakan Ciparay Blk. No 5",
+				"desa_kelurahan_id": null,
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5851,
+					-6.9426
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219464",
+				"nama": "SMP KRISTEN YAHYA",
+				"alamat_jalan": "JL.LLRE MARTADINATA 71A-73",
+				"desa_kelurahan_id": "Citarum",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6248,
+					-6.9021
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219518",
+				"nama": "SMP PASUNDAN 1 ",
+				"alamat_jalan": "Jl. Pasundan No.32",
+				"desa_kelurahan_id": "Balong Gede",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5966,
+					-6.9034
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69775307",
+				"nama": "SMP NEGERI 53",
+				"alamat_jalan": "JL. ARCAMANIK NO 10 SINDANGLAYA",
+				"desa_kelurahan_id": "Pasir Impun",
+				"kecamatan": "Kec. Mandalajati"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6806,
+					-6.8991
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219348",
+				"nama": "SMP NEGERI 19",
+				"alamat_jalan": "Jl. Sadang Luhur XI",
+				"desa_kelurahan_id": "Sekeloa",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6222,
+					-6.8862
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219442",
+				"nama": "SMP MUHAMMADIYAH 3",
+				"alamat_jalan": "JL. PHH MUSTOPA NO. 90/209C",
+				"desa_kelurahan_id": "Padasuka",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6529,
+					-6.9025
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219419",
+				"nama": "SMP NEGERI 36",
+				"alamat_jalan": "Jl. Caringin",
+				"desa_kelurahan_id": "Babakan",
+				"kecamatan": "Kec. Babakan Ciparay"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5747,
+					-6.9422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219376",
+				"nama": "SMP SANTA ANGELA",
+				"alamat_jalan": "Jl. Merdeka No. 24",
+				"desa_kelurahan_id": "Babakan Ciamis",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6145,
+					-6.9124
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219341",
+				"nama": "SMP NEGERI 15",
+				"alamat_jalan": "Jl. Setiabudi No. 89 ",
+				"desa_kelurahan_id": "Gegerkalong",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5958,
+					-6.8742
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20280597",
+				"nama": "SLB AZ-ZAKIYAH",
+				"alamat_jalan": "Jl. Cijawura Hilir II No. 15",
+				"desa_kelurahan_id": "Cijaura",
+				"kecamatan": "Kec. Buahbatu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.66,
+					-6.9596
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219398",
+				"nama": "SMP NEGERI 6",
+				"alamat_jalan": "Jl. H. Yakub No. 36",
+				"desa_kelurahan_id": "Kebon Jeruk",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6015,
+					-6.9185
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219439",
+				"nama": "SMP MUHAMMADIYAH 6",
+				"alamat_jalan": "Jl. Sukagalih Gg. H. Gojali No.134",
+				"desa_kelurahan_id": "Cipedes",
+				"kecamatan": "Kec. Sukajadi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5924,
+					-6.8926
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69881575",
+				"nama": "SMP PELITA NUSANTARA",
+				"alamat_jalan": "JL. PALEDANG NO. 297a",
+				"desa_kelurahan_id": "Campaka",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.579719,
+					-6.914498
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69888424",
+				"nama": "SMP PLUS AL-GOZALI",
+				"alamat_jalan": "JL. KARASAK LAMA NO. 31",
+				"desa_kelurahan_id": "Kebon Lega",
+				"kecamatan": "Kec. Bojong Loa Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.605318,
+					-6.959796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69895381",
+				"nama": "SMP DAARUT TAUHIID BOARDING SCHOOL",
+				"alamat_jalan": "JL. GEGERKALONG GIRANG NO 67 RT 006/03 KOMPLEK PERUMAHAN MIDC",
+				"desa_kelurahan_id": "Gegerkalong",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.593268,
+					-6.874496
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20252187",
+				"nama": "SMP VIJAYA KUSUMA",
+				"alamat_jalan": "Jalan Mandala No. 59 Bandung",
+				"desa_kelurahan_id": "Kebon Kangkung",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6506,
+					-6.9407
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219461",
+				"nama": "SMP KRISTEN 1 BPK PENABUR",
+				"alamat_jalan": "Jl. Hos Tjokroaminoto 157",
+				"desa_kelurahan_id": "Pamoyanan",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5984,
+					-6.9161
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219407",
+				"nama": "SMP NEGERI 27",
+				"alamat_jalan": "Jl. Yudhawastu Pramuka I",
+				"desa_kelurahan_id": "Cicadas",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6346,
+					-6.9055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219381",
+				"nama": "SMP NEGERI 48",
+				"alamat_jalan": "Bandung",
+				"desa_kelurahan_id": "Mekarjaya",
+				"kecamatan": "Kec. Rancasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6954,
+					-6.9478
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219429",
+				"nama": "SMP LABORATORIUM-PERCONTOHAN UPI",
+				"alamat_jalan": "Jl. Senjayaguru Kampus UPI Bandung",
+				"desa_kelurahan_id": "Isola",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5927,
+					-6.8617
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219372",
+				"nama": "SMP YAYASAN ATIKAN SUNDA",
+				"alamat_jalan": "Jl. Panghulu Haji Hasan Mustapa No. 115 ",
+				"desa_kelurahan_id": "Sukapada",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6472,
+					-6.901
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219872",
+				"nama": "SLB C Karya Bakti",
+				"alamat_jalan": "Jl Cikutra No 58",
+				"desa_kelurahan_id": "Padasuka",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6438,
+					-6.897
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219469",
+				"nama": "SMP KRISTEN HIDUP BARU",
+				"alamat_jalan": "Jl. Ciumbuleuit 160",
+				"desa_kelurahan_id": "Ciumbuleuit",
+				"kecamatan": "Kec. Cidadap"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6059,
+					-6.8659
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219495",
+				"nama": "SMP PGRI 7 ",
+				"alamat_jalan": "Jl. Kencanawangi Utara Pandanwangi ",
+				"desa_kelurahan_id": "Cijaura",
+				"kecamatan": "Kec. Buahbatu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6519,
+					-6.9603
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219428",
+				"nama": "SMP LANGLANGBUANA 1",
+				"alamat_jalan": "Jl. Terusan Cimuncang No.11",
+				"desa_kelurahan_id": "Pasirlayung",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6506,
+					-6.896
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219457",
+				"nama": "SMP GUPPI",
+				"alamat_jalan": "Jl. Neglarasa No.4 Bandung",
+				"desa_kelurahan_id": "Pasanggrahan",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7025,
+					-6.9269
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219339",
+				"nama": "SMP NEGERI 13",
+				"alamat_jalan": "Jl.mutiara No.15 Bandung",
+				"desa_kelurahan_id": "Turangga",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6228,
+					-6.9353
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219388",
+				"nama": "SMP NEGERI 51",
+				"alamat_jalan": "Jl.Derwati",
+				"desa_kelurahan_id": "Derwati",
+				"kecamatan": "Kec. Rancasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6856,
+					-6.9671
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20280596",
+				"nama": "SLB BC YPLAB CIBADUYUT",
+				"alamat_jalan": "Jl.Cibaduyut, Gg.M.A Majja No.4",
+				"desa_kelurahan_id": "Cibaduyut",
+				"kecamatan": "Kec. Bojong Loa Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.601075,
+					-6.954365
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219207",
+				"nama": "SMP ADVENT II BANDUNG",
+				"alamat_jalan": "Bandung",
+				"desa_kelurahan_id": "Cipaganti",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6043,
+					-6.8847
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219331",
+				"nama": "SMP NEGERI 11",
+				"alamat_jalan": "Jl. H. Samsudin No.34",
+				"desa_kelurahan_id": "Ciateul",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.608069,
+					-6.934783
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219864",
+				"nama": "SLB B SILIH ASIH",
+				"alamat_jalan": "Jl. Embah Jaksa Cipadung",
+				"desa_kelurahan_id": "Cipadung",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7161,
+					-6.925
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69883567",
+				"nama": "SMP NEHRU MEMORIAL SCHOOL",
+				"alamat_jalan": "JL. LEMBONG NO 40",
+				"desa_kelurahan_id": "Braga",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.623715,
+					-6.921589
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219497",
+				"nama": "SMP PASUNDAN 8",
+				"alamat_jalan": "Jl. Cikutra No.201",
+				"desa_kelurahan_id": "Neglasari",
+				"kecamatan": "Kec. Cibeunying Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6416,
+					-6.8951
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219413",
+				"nama": "SMP NEGERI 32",
+				"alamat_jalan": "Jl Arjuna No 18 Bandung",
+				"desa_kelurahan_id": "Ciroyom",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5904,
+					-6.9158
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219394",
+				"nama": "SMP NEGERI 9",
+				"alamat_jalan": "Jl. Semar No. 5 Bandung",
+				"desa_kelurahan_id": "Arjuna",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.597,
+					-6.9089
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "60724618",
+				"nama": "SMP TUNAS UNGGUL",
+				"alamat_jalan": "Jl. Pasir Impun No. 94",
+				"desa_kelurahan_id": "Pasir Impun",
+				"kecamatan": "Kec. Mandalajati"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6762,
+					-6.9029
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219417",
+				"nama": "SMP NEGERI 39",
+				"alamat_jalan": "Jl. Holis No.439",
+				"desa_kelurahan_id": "Babakan",
+				"kecamatan": "Kec. Babakan Ciparay"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5687,
+					-6.9426
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219363",
+				"nama": "SMP SANTA MARIA",
+				"alamat_jalan": "Jl. Jend. Ahmad Yani No. 273",
+				"desa_kelurahan_id": "Cihapit",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6332,
+					-6.9143
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219501",
+				"nama": "SMP NUGRAHA",
+				"alamat_jalan": "Jl. PLN Dalam No 4",
+				"desa_kelurahan_id": "Ciseureuh",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6115,
+					-6.9513
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219354",
+				"nama": "SMP YPI",
+				"alamat_jalan": "Jl. Muhamad No. 17 Bandung",
+				"desa_kelurahan_id": "Pamoyanan",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6077,
+					-6.9014
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219410",
+				"nama": "SMP NEGERI 24",
+				"alamat_jalan": "Jl. Madesa No.33",
+				"desa_kelurahan_id": "Suka Asih",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5866,
+					-6.9366
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219503",
+				"nama": "SMP MUTIARA 4",
+				"alamat_jalan": "Jl. Raya Cibeureum No. 10",
+				"desa_kelurahan_id": "Campaka",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5884,
+					-6.9093
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219365",
+				"nama": "SMP TULUS KARTIKA",
+				"alamat_jalan": "Jl. Yupiter Tengah 2 No.1",
+				"desa_kelurahan_id": "Sekejati",
+				"kecamatan": "Kec. Buahbatu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.662,
+					-6.9483
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219471",
+				"nama": "SMP KRISTEN BAPTIS",
+				"alamat_jalan": "Jl. Wastukencana 40",
+				"desa_kelurahan_id": "Taman Sari",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6065,
+					-6.9041
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219475",
+				"nama": "SMP PGRI 2",
+				"alamat_jalan": "Jl. Ciumbuleuit No 48 Bandung",
+				"desa_kelurahan_id": "Ciumbuleuit",
+				"kecamatan": "Kec. Cidadap"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6052,
+					-6.8613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20270812",
+				"nama": "SMP BUDI ISTRI",
+				"alamat_jalan": "Jl.sancang No.4 Bandung",
+				"desa_kelurahan_id": "Burangrang",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6192,
+					-6.9257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219330",
+				"nama": "SMP NEGERI 12",
+				"alamat_jalan": "Jl. Dr. Setiabudhi No. 195",
+				"desa_kelurahan_id": "Gegerkalong",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5939,
+					-6.8659
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219477",
+				"nama": "SMP PGII 2 BANDUNG",
+				"alamat_jalan": "Jl. Pahlawan Blk. No. 17",
+				"desa_kelurahan_id": "Cihaurgeulis",
+				"kecamatan": "Kec. Cibeunying Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6334,
+					-6.9004
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219744",
+				"nama": "SLB JATIS HURIP",
+				"alamat_jalan": "Komplek Pasir Pogor Jl. Pasir Intan No. 4",
+				"desa_kelurahan_id": "Mekarjaya",
+				"kecamatan": "Kec. Rancasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6617,
+					-6.9607
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219496",
+				"nama": "SMP PASUNDAN 9",
+				"alamat_jalan": "Jl.babakan Ciparay",
+				"desa_kelurahan_id": "Sukahaji",
+				"kecamatan": "Kec. Babakan Ciparay"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5854,
+					-6.9275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219458",
+				"nama": "SMP GUNA DHARMA",
+				"alamat_jalan": "Jl. A.H. Nasution Km.11,70",
+				"desa_kelurahan_id": "Cipadung Kulon",
+				"kecamatan": "Kec. Panyileukan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7059,
+					-6.9112
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "60726482",
+				"nama": "SMP MUHAMMADIYAH 7",
+				"alamat_jalan": "Jl. Leuwi Panjang Gg. Kebon Kalapa No.24",
+				"desa_kelurahan_id": "Situsaeur",
+				"kecamatan": "Kec. Bojong Loa Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6038,
+					-6.9406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219332",
+				"nama": "SMP NEGERI 10",
+				"alamat_jalan": "Jl. Rd.Dewi Sartika No.115",
+				"desa_kelurahan_id": "Pungkur",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.606,
+					-6.9291
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69894450",
+				"nama": "SMP CITRA CEMARA",
+				"alamat_jalan": "JL. SOEKARNO HATTA NO 22",
+				"desa_kelurahan_id": "Cibuntu",
+				"kecamatan": "Kec. Bandung Kulon"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.577423,
+					-6.925271
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219513",
+				"nama": "SMP PASUNDAN 4",
+				"alamat_jalan": "Jl. Kebonjati No. 31 Bandung",
+				"desa_kelurahan_id": "Kebon Jeruk",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6014,
+					-6.9164
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219386",
+				"nama": "SMP NEGERI 43",
+				"alamat_jalan": "Jl. Kautamaan Istri No.31",
+				"desa_kelurahan_id": "Balong Gede",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.606776,
+					-6.92548
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219424",
+				"nama": "SMP SALMAN AL FARISI",
+				"alamat_jalan": "Jl.tubagus Ismail VIII",
+				"desa_kelurahan_id": "Sekeloa",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6226,
+					-6.8829
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219420",
+				"nama": "SMP NEGERI 35",
+				"alamat_jalan": "Jl. Dago Pojok No. 12 Bandung",
+				"desa_kelurahan_id": "Dago",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.616808,
+					-6.874434
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219470",
+				"nama": "SMP KRISTEN BPPK",
+				"alamat_jalan": "Jl. Pajajaran 91 Bandung",
+				"desa_kelurahan_id": "Arjuna",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5944,
+					-6.9069
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219356",
+				"nama": "SMP TAMANSISWA",
+				"alamat_jalan": "Jl.Tamansiswa No.4 Bandung",
+				"desa_kelurahan_id": "Malabar",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6307,
+					-6.9392
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20270078",
+				"nama": "SMP CENDEKIA MUDA",
+				"alamat_jalan": "Jl Puri Ayu Pratama No 17 Arcamanik",
+				"desa_kelurahan_id": "Sukamiskin",
+				"kecamatan": "Kec. Arcamanik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6756,
+					-6.9213
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219344",
+				"nama": "SMP NEGERI 20",
+				"alamat_jalan": "Jl. Centeh No. 5",
+				"desa_kelurahan_id": "Samoja",
+				"kecamatan": "Kec. Batununggal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.622,
+					-6.9321
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219364",
+				"nama": "SMP TRIYASA",
+				"alamat_jalan": "Ujungberung",
+				"desa_kelurahan_id": "Pasir Wangi",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7042,
+					-6.9121
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219502",
+				"nama": "SMP NASIONAL",
+				"alamat_jalan": "Jl. Sadang Serang No.17",
+				"desa_kelurahan_id": "Sekeloa",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6302,
+					-6.8921
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219491",
+				"nama": "SMP PGRI 10",
+				"alamat_jalan": "Jl. A.h. Nasution No.15",
+				"desa_kelurahan_id": "Cigending",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6973,
+					-6.9167
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219384",
+				"nama": "SMP NEGERI 45",
+				"alamat_jalan": "Jl. Yogyakarta Antapani Bandung",
+				"desa_kelurahan_id": "Antapani Kidul",
+				"kecamatan": "Kec. Antapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6599,
+					-6.9224
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20254287",
+				"nama": "SMP PRIBADI",
+				"alamat_jalan": "JL. PHH. MUSTOFA NO 41 RT 02 RW 06",
+				"desa_kelurahan_id": "Neglasari",
+				"kecamatan": "Kec. Cibeunying Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6182,
+					-6.9007
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219492",
+				"nama": "SMP PGRI 9",
+				"alamat_jalan": "Jl. Gede Bage No. 17",
+				"desa_kelurahan_id": "Babakan Penghulu",
+				"kecamatan": "Kec. Cinambo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.651,
+					-6.9126
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219359",
+				"nama": "SMP SUMATERA 40",
+				"alamat_jalan": "Jl. Pahlawan No.21",
+				"desa_kelurahan_id": "Cihaurgeulis",
+				"kecamatan": "Kec. Cibeunying Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6338,
+					-6.9
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219405",
+				"nama": "SMP NEGERI 29",
+				"alamat_jalan": "Jl. Geger Arum no. 11 A",
+				"desa_kelurahan_id": "Isola",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5864,
+					-6.8608
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69894966",
+				"nama": "SMP NEGERI 54",
+				"alamat_jalan": "Jl. Raya Utsman Bin Affan",
+				"desa_kelurahan_id": "Rancanumpang",
+				"kecamatan": "Kec. Gedebage"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.70583,
+					-6.958364
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219355",
+				"nama": "SMP TARUNA BAKTI",
+				"alamat_jalan": "Jln. L.L.R.E. Martadinata No. 52",
+				"desa_kelurahan_id": "Citarum",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6234,
+					-6.9063
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219504",
+				"nama": "SMP MUTIARA 3",
+				"alamat_jalan": "Jl. Caringin Gg. Lumbung II No. 19",
+				"desa_kelurahan_id": "Babakan Ciparay",
+				"kecamatan": "Kec. Babakan Ciparay"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5793,
+					-6.9461
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219186",
+				"nama": "SMP BANDUNG INSTITUT",
+				"alamat_jalan": "Jl. Manglayang I No. 7",
+				"desa_kelurahan_id": "Palasari",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7242,
+					-6.9123
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219397",
+				"nama": "SMP NEGERI 7",
+				"alamat_jalan": "Jl. Ambon No. 23",
+				"desa_kelurahan_id": "Citarum",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6196,
+					-6.9078
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219418",
+				"nama": "SMP NEGERI 37",
+				"alamat_jalan": "Jl. Babakan Sari Kiaracondong Bandung",
+				"desa_kelurahan_id": "Babakan Sari",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.655984,
+					-6.926252
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219353",
+				"nama": "SMP YPKKP",
+				"alamat_jalan": "Jl.Cijerah No. 230",
+				"desa_kelurahan_id": "Cijerah",
+				"kecamatan": "Kec. Bandung Kulon"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6351,
+					-6.9598
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219340",
+				"nama": "SMP NEGERI 14",
+				"alamat_jalan": "Jl. Lapangan Supratman No.8",
+				"desa_kelurahan_id": "Cihapit",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6303,
+					-6.9079
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219374",
+				"nama": "SMP YAMI",
+				"alamat_jalan": "Jl.karasak Baru No.16",
+				"desa_kelurahan_id": "Karasak",
+				"kecamatan": "Kec. Astanaanyar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6094,
+					-6.95
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20280593",
+				"nama": "SLB NEGERI A PAJAJARAN",
+				"alamat_jalan": "Jl. Pajajaran No. 50",
+				"desa_kelurahan_id": "Pasirkaliki",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.594259,
+					-6.911868
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69935557",
+				"nama": "SMP TEMASEK INDEPENDENT SCHOOL",
+				"alamat_jalan": "Jl. Sindang Sirna No. 8",
+				"desa_kelurahan_id": null,
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0,
+					0
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219337",
+				"nama": "SMP NEGERI 1",
+				"alamat_jalan": "Jl.Ksatriaan No.12",
+				"desa_kelurahan_id": "Arjuna",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.596702,
+					-6.911764
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219450",
+				"nama": "SMP KARTIKA XIX-1",
+				"alamat_jalan": "Jl. Bangka No. 3",
+				"desa_kelurahan_id": "Merdeka",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.618535,
+					-6.912951
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219401",
+				"nama": "SMP NEGERI 40",
+				"alamat_jalan": "Jl. Wastukencana No. 75 A",
+				"desa_kelurahan_id": "Taman Sari",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6068,
+					-6.9056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219378",
+				"nama": "SMP NEGERI 50",
+				"alamat_jalan": "Jl. Pasirjati No. 12",
+				"desa_kelurahan_id": "Cigending",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.697285,
+					-6.907434
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219487",
+				"nama": "SMP PUTRA PAJAJARAN",
+				"alamat_jalan": "Jl. Pajajaran Blk No.37",
+				"desa_kelurahan_id": "Pasirkaliki",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.593,
+					-6.906
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219366",
+				"nama": "SMP WARINGIN",
+				"alamat_jalan": "Jl. Kebonjati No. 209",
+				"desa_kelurahan_id": "Ciroyom",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5995,
+					-6.915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219328",
+				"nama": "SMP NEGERI 23",
+				"alamat_jalan": "Jl.arjuna No.20-22",
+				"desa_kelurahan_id": "Ciroyom",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5893,
+					-6.915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219190",
+				"nama": "SMPI AL WASLIYAH",
+				"alamat_jalan": "Jl Kawaluyaan",
+				"desa_kelurahan_id": "Jati Sari",
+				"kecamatan": "Kec. Buahbatu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6685,
+					-6.9537
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219426",
+				"nama": "SMP LPPN",
+				"alamat_jalan": "Kota Bandung",
+				"desa_kelurahan_id": "Ciroyom",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5855,
+					-6.9157
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219368",
+				"nama": "SMP YOS SUDARSO",
+				"alamat_jalan": "Jln.Mohamad Toha",
+				"desa_kelurahan_id": "Pungkur",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6063,
+					-6.9289
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219195",
+				"nama": "SMP BPI 1",
+				"alamat_jalan": "Jl. Burangrang No.8 Bandung",
+				"desa_kelurahan_id": "Burangrang",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6201,
+					-6.9238
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219865",
+				"nama": "SLB AUTISME PELITA HAFIZH",
+				"alamat_jalan": "Jl. Kota Baru I No.4 Bandung",
+				"desa_kelurahan_id": "Ciateul",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6178,
+					-6.9352
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219859",
+				"nama": "SLB C ASIH MANUNGGAL",
+				"alamat_jalan": "Jl. Singa Perbangsa",
+				"desa_kelurahan_id": "Lebak Gede",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6233,
+					-6.8958
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219455",
+				"nama": "SMP IGNATIUS SLAMET RIYADI",
+				"alamat_jalan": "Jl. H. Ibrahim Aji Gg. Kebon Kangkung X",
+				"desa_kelurahan_id": "Kebon Kangkung",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6503,
+					-6.9417
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219399",
+				"nama": "SMP NEGERI 42",
+				"alamat_jalan": "Jl. Manjahlega Bandung",
+				"desa_kelurahan_id": "Margasari",
+				"kecamatan": "Kec. Buahbatu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6704,
+					-6.9642
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219472",
+				"nama": "SMP KRISTEN 5 BPK PENABUR",
+				"alamat_jalan": "Jl. Jendral Sudirman 638",
+				"desa_kelurahan_id": "Dungus Cariang",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5896,
+					-6.9126
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219866",
+				"nama": "SLB ARRAHMAN",
+				"alamat_jalan": "Jl. Terusunan GBI no. 126",
+				"desa_kelurahan_id": "Mekarjaya",
+				"kecamatan": "Kec. Rancasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.688615,
+					-6.957769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219509",
+				"nama": "SMP PAJAJARAN 1",
+				"alamat_jalan": "Jl. Maleber Utara No.5 Bandung",
+				"desa_kelurahan_id": "Garuda",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.577,
+					-6.9066
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219431",
+				"nama": "SMP KEMALA BHAYANGKARI",
+				"alamat_jalan": "Jl. Palasari No. 46 Bandung",
+				"desa_kelurahan_id": "Malabar",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6307,
+					-6.9392
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "26017001",
+				"nama": "SLB NEGERI CICENDO",
+				"alamat_jalan": "Jl. Cicendo No. 2",
+				"desa_kelurahan_id": "Babakan Ciamis",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6189,
+					-6.9149
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219198",
+				"nama": "SMP DARUL HIKAM",
+				"alamat_jalan": "Jl. Ir.h. Juanda No.285",
+				"desa_kelurahan_id": "Dago",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6164,
+					-6.879
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219863",
+				"nama": "SLB B Sukapura ",
+				"alamat_jalan": "Jl. Sukapura No. 4",
+				"desa_kelurahan_id": "Sukapura",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.650743,
+					-6.936274
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219484",
+				"nama": "SMP PGRI 3",
+				"alamat_jalan": "Jl. Sukabumi Dalam No. 4",
+				"desa_kelurahan_id": "Kacapiring",
+				"kecamatan": "Kec. Batununggal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.635331,
+					-6.916086
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219204",
+				"nama": "SMP BINA PERSADA NUSANTARABPN",
+				"alamat_jalan": "Jl.Desa Cipadung No.213",
+				"desa_kelurahan_id": "Cipadung",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7076,
+					-6.9218
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219362",
+				"nama": "SMP SANTO ALOYSIUS",
+				"alamat_jalan": "Jl. Sultan Agung No. 4",
+				"desa_kelurahan_id": "Citarum",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6252,
+					-6.9087
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219517",
+				"nama": "SMP PASUNDAN 10",
+				"alamat_jalan": "Jl. Setrasari Tengah",
+				"desa_kelurahan_id": "Sukarasa",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5896,
+					-6.874
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219465",
+				"nama": "SMP KRISTEN TRIMULIA",
+				"alamat_jalan": "Jl. Dr.djunjunan No. 105",
+				"desa_kelurahan_id": "Pajajaran",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5981,
+					-6.9016
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219882",
+				"nama": "SLB C SILIH ASIH",
+				"alamat_jalan": "Jl. Embah Jaksa Cipadung",
+				"desa_kelurahan_id": "Cipadung",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.706219,
+					-6.929701
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219351",
+				"nama": "SMP NEGERI 16",
+				"alamat_jalan": "Jl. Phh. Mustopa 53",
+				"desa_kelurahan_id": "Neglasari",
+				"kecamatan": "Kec. Cibeunying Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6423,
+					-6.8997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219203",
+				"nama": "SMP BPP",
+				"alamat_jalan": "Jl. Kartini No. 10 Bandung",
+				"desa_kelurahan_id": "Kebon Pisang",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6177,
+					-6.9185
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219361",
+				"nama": "SMP SANTO ALOYSIUS 2",
+				"alamat_jalan": "Jl. Batununggal Indah II No. 30",
+				"desa_kelurahan_id": "Mengger",
+				"kecamatan": "Kec. Bandung Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.64,
+					-6.9606
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219350",
+				"nama": "SMP NEGERI 17",
+				"alamat_jalan": "Jl. Pacuan Kuda Arcamanik",
+				"desa_kelurahan_id": "Sukamiskin",
+				"kecamatan": "Kec. Arcamanik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.673,
+					-6.9067
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219454",
+				"nama": "SMP INDONESIA RAYA",
+				"alamat_jalan": "Prof. Suria Sumantri No. 33 B",
+				"desa_kelurahan_id": "Sukawarna",
+				"kecamatan": "Kec. Sukajadi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5809,
+					-6.8891
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219358",
+				"nama": "SMP SWADAYA 1 BANDUNG",
+				"alamat_jalan": "Jl Pasir Koja No.181",
+				"desa_kelurahan_id": "Jamika",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5889,
+					-6.926
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20247311",
+				"nama": "SMP SANTA URSULA",
+				"alamat_jalan": "Jl. Taman Anggrek No. 1",
+				"desa_kelurahan_id": "Cihapit",
+				"kecamatan": "Kec. Bandung Wetan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6283,
+					-6.9129
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219507",
+				"nama": "SMP MUSLIMIN 3",
+				"alamat_jalan": "Jl. Patuha No.36",
+				"desa_kelurahan_id": "Lingkar Selatan",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6255,
+					-6.9244
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20269707",
+				"nama": "SMP KRISTEN BALA KESELAMATAN",
+				"alamat_jalan": "Jl. Gardujati No. 89",
+				"desa_kelurahan_id": "Kebon Jeruk",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5982,
+					-6.9167
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219460",
+				"nama": "SMP GANTRA",
+				"alamat_jalan": "Jl. Cinangka No.131",
+				"desa_kelurahan_id": "Pasir Wangi",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7046,
+					-6.901
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219871",
+				"nama": "SLB C BUDAYA BANGSA",
+				"alamat_jalan": "Jl. CITARIP BARAT NO. 16 BLK",
+				"desa_kelurahan_id": "Kopo",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5954,
+					-6.9366
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219468",
+				"nama": "SMP KRISTEN KALAM KUDUS",
+				"alamat_jalan": "Jl. Mekar Puspita No. 53 - 55",
+				"desa_kelurahan_id": "Cibaduyut",
+				"kecamatan": "Kec. Bojong Loa Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6038,
+					-6.9505
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69725735",
+				"nama": "SMP YUDHISTIRA",
+				"alamat_jalan": "Jl. Trs. Borobudur 1-4 (depan TVRI) Cibaduyut ",
+				"desa_kelurahan_id": "Cibaduyut Kidul",
+				"kecamatan": "Kec. Bojong Loa Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5915,
+					-6.9584
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "60725359",
+				"nama": "SMP IT BINA INSAN UNGGUL",
+				"alamat_jalan": "JL TERUSAN HALIMUN NO 37 LINGKAR SELATAN",
+				"desa_kelurahan_id": "Lingkar Selatan",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6334,
+					-6.927
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219761",
+				"nama": "SLB C SUMBER SARI",
+				"alamat_jalan": "Jl. Majalaya Ii No 29",
+				"desa_kelurahan_id": "Antapani Wetan",
+				"kecamatan": "Kec. Antapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.663158,
+					-6.913768
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20280601",
+				"nama": "SMP ALFA CENTAURI",
+				"alamat_jalan": "Jl. Palasari No. 9",
+				"desa_kelurahan_id": null,
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0,
+					0
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219343",
+				"nama": "SMP NEGERI 21",
+				"alamat_jalan": "Jl. Caringin Gg. Lumbung II",
+				"desa_kelurahan_id": "Babakan Ciparay",
+				"kecamatan": "Kec. Babakan Ciparay"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5802,
+					-6.9453
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219510",
+				"nama": "SMP PANDU",
+				"alamat_jalan": "Jl. Pandu No. 6",
+				"desa_kelurahan_id": "Pamoyanan",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5931,
+					-6.9054
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219486",
+				"nama": "SMP PGRI 5",
+				"alamat_jalan": "Jl. Sarirasa Blok IV No. 100",
+				"desa_kelurahan_id": "Sarijadi",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.58,
+					-6.8782
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219482",
+				"nama": "SMP PELITA BANGSA",
+				"alamat_jalan": "Jl.soekarno Hatta No.391",
+				"desa_kelurahan_id": "Karasak",
+				"kecamatan": "Kec. Astanaanyar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6355,
+					-6.8954
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219446",
+				"nama": "SMP MUHAMMADIYAH 1",
+				"alamat_jalan": "Jl. Banteng Dalam No. 6 Bandung",
+				"desa_kelurahan_id": "Turangga",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6242,
+					-6.9328
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20280590",
+				"nama": "SLB SOLALIN",
+				"alamat_jalan": "Jl. Sarimanah Blok XII No 170",
+				"desa_kelurahan_id": "Sarijadi",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.585,
+					-6.8709
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219508",
+				"nama": "SMP PAHLAWAN TOHA",
+				"alamat_jalan": "Jl. Peta (Sukamulya I)",
+				"desa_kelurahan_id": "Suka Asih",
+				"kecamatan": "Kec. Bojong Loa Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5982,
+					-6.9305
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219197",
+				"nama": "SMP DEWI SARTIKA",
+				"alamat_jalan": "Jl. Kautamaan Istri No. 12",
+				"desa_kelurahan_id": "Balong Gede",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.605,
+					-6.9255
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69899928",
+				"nama": "SMP KARYA BHAKTI",
+				"alamat_jalan": "Jl.Manglayang IV No.7D",
+				"desa_kelurahan_id": "Palasari",
+				"kecamatan": "Kec. Cibiru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7163,
+					-6.9216
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219208",
+				"nama": "SMP ADVENT CIMINDI",
+				"alamat_jalan": "Jl. Raya Cimindi No. 74",
+				"desa_kelurahan_id": "Campaka",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6031,
+					-6.9497
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219499",
+				"nama": "SMP NUSANTARA RAYA",
+				"alamat_jalan": "Jl.antapani No.28",
+				"desa_kelurahan_id": "Cicaheum",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6574,
+					-6.9027
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219187",
+				"nama": "SMP ASSALAAM",
+				"alamat_jalan": "Jl. Sasakgantung No. 12-14",
+				"desa_kelurahan_id": "Balong Gede",
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6071,
+					-6.9269
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219205",
+				"nama": "SMP BPMD TARUNA",
+				"alamat_jalan": "Jl. Hasan Ali No. 64",
+				"desa_kelurahan_id": "Dungus Cariang",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5779,
+					-6.9154
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219476",
+				"nama": "SMP PGRI 1",
+				"alamat_jalan": "Jl. Centeh No.5",
+				"desa_kelurahan_id": "Samoja",
+				"kecamatan": "Kec. Batununggal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6252,
+					-6.928
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219347",
+				"nama": "SMP NEGERI 2",
+				"alamat_jalan": "Jl. Sumatera No.42",
+				"desa_kelurahan_id": "Merdeka",
+				"kecamatan": "Kec. Sumur Bandung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6138,
+					-6.9139
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219463",
+				"nama": "SMP KRISTEN 4 BPK PENABUR",
+				"alamat_jalan": "Jl. Guntur No.34",
+				"desa_kelurahan_id": "Malabar",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5809,
+					-6.9081
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219389",
+				"nama": "SMP NEGERI 52",
+				"alamat_jalan": "Jl. Bukit Raya Ciumbuleuit",
+				"desa_kelurahan_id": "Ciumbuleuit",
+				"kecamatan": "Kec. Cidadap"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6065,
+					-6.8607
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219406",
+				"nama": "SMP NEGERI 28",
+				"alamat_jalan": "Jl. Solontongan II Buahbatu",
+				"desa_kelurahan_id": "Turangga",
+				"kecamatan": "Kec. Lengkong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6288,
+					-6.9417
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219196",
+				"nama": "SMP BPK PENABUR HOLIS",
+				"alamat_jalan": "Kompleks Taman Holis Indah Blok A",
+				"desa_kelurahan_id": "Cigondewah Kidul",
+				"kecamatan": "Kec. Bandung Kulon"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5729,
+					-6.9387
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219396",
+				"nama": "SMP NEGERI 8",
+				"alamat_jalan": "Jl. ALUN-ALUN UTARA NO.211B UJUNGBERUNG",
+				"desa_kelurahan_id": "Cigending",
+				"kecamatan": "Kec. Ujungberung"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.7018,
+					-6.913
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219498",
+				"nama": "SMP PASUNDAN 7",
+				"alamat_jalan": "Jl. Cijerah Gg. Pelita No. 11",
+				"desa_kelurahan_id": "Cijerah",
+				"kecamatan": "Kec. Bandung Kulon"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5694,
+					-6.9159
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20258091",
+				"nama": "SMP MUTIARA BUNDA",
+				"alamat_jalan": "Jl. Padang Golf No. 2",
+				"desa_kelurahan_id": null,
+				"kecamatan": "Kec. Arcamanik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6177,
+					-6.9497
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219516",
+				"nama": "SMP PASUNDAN 12",
+				"alamat_jalan": "Jl. Sarirasa No. 130/04 RT.04/04",
+				"desa_kelurahan_id": "Sarijadi",
+				"kecamatan": "Kec. Sukasari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.579,
+					-6.8774
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219452",
+				"nama": "SMP ISTIQAMAH",
+				"alamat_jalan": "Jl. Pahlawan No.65",
+				"desa_kelurahan_id": "Sukaluyu",
+				"kecamatan": "Kec. Cibeunying Kaler"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6358,
+					-6.897
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219514",
+				"nama": "SMP PASUNDAN 3",
+				"alamat_jalan": "Jl. Bapak Husen",
+				"desa_kelurahan_id": "Cipaganti",
+				"kecamatan": "Kec. Coblong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6034,
+					-6.8911
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219467",
+				"nama": "SMP KRISTEN PAULUS",
+				"alamat_jalan": "Jl. Dr. Rajiman 11",
+				"desa_kelurahan_id": "Pasirkaliki",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5994,
+					-6.904
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219342",
+				"nama": "SMP NEGERI 22",
+				"alamat_jalan": "Jl. Wr Supratman No. 24 Bandung",
+				"desa_kelurahan_id": "Sukamaju",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6336,
+					-6.9119
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219409",
+				"nama": "SMP NEGERI 25",
+				"alamat_jalan": "Pajagalan",
+				"desa_kelurahan_id": "Nyengseret",
+				"kecamatan": "Kec. Astanaanyar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6422,
+					-6.9121
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219483",
+				"nama": "SMP PELITA",
+				"alamat_jalan": "Sekejati Cikutra",
+				"desa_kelurahan_id": "Sukapada",
+				"kecamatan": "Kec. Cibeunying Kidul"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6355,
+					-6.8954
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219400",
+				"nama": "SMP NEGERI 41",
+				"alamat_jalan": "Jl. Arjuna No. 18",
+				"desa_kelurahan_id": "Ciroyom",
+				"kecamatan": "Kec. Andir"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5903,
+					-6.9158
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219869",
+				"nama": "SLB B KARYA BHAKTI",
+				"alamat_jalan": "Jl. Persaudara No. 35",
+				"desa_kelurahan_id": "Babakan Surabaya",
+				"kecamatan": "Kec. Kiaracondong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6485,
+					-6.9153
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219466",
+				"nama": "SMP KRISTEN REHOBOTH",
+				"alamat_jalan": "Jl. Rd. Dewi Sartika No.36-38",
+				"desa_kelurahan_id": null,
+				"kecamatan": "Kec. Regol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6156,
+					-6.925
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219380",
+				"nama": "SMP NEGERI 49",
+				"alamat_jalan": "Jl. Antapani No. 58",
+				"desa_kelurahan_id": "Antapani Kulon",
+				"kecamatan": "Kec. Antapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.6583,
+					-6.9072
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219412",
+				"nama": "SMP NEGERI 31",
+				"alamat_jalan": "JALAN BINONG JATI NO.139",
+				"desa_kelurahan_id": "Binong",
+				"kecamatan": "Kec. Batununggal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.640234,
+					-6.938446
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "20219382",
+				"nama": "SMP NEGERI 47",
+				"alamat_jalan": "Jl. Budi Cilember No. 19 B",
+				"desa_kelurahan_id": "Sukaraja",
+				"kecamatan": "Kec. Cicendo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					107.5588,
+					-6.8898
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-color": "#FFF000",
+				"marker-size": "medium",
+				"marker-symbol": "",
+				"npsn": "69931767",
+				"nama": "SMP NURUL HIDAYAH",
+				"alamat_jalan": "Jl. Randusari V No. 5",
+				"desa_kelurahan_id": "Antapani Kidul",
+				"kecamatan": "Kec. Antapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0,
+					0
+				]
+			}
+		}
+	]
+}

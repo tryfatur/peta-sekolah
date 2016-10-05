@@ -1,0 +1,42 @@
+body {
+	background: url('../img/gray-map.jpg');
+}
+
+#map {
+	width: 100%;
+	height: 672px;
+}
+
+.leaflet-popup-content > p {
+	margin-bottom: 0px;
+}
+
+.leaflet-popup-content-wrapper {
+	border-radius: 0px;
+	-webkit-box-shadow: 10px 10px 16px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 16px -6px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 16px -6px rgba(0,0,0,0.75);
+}
+
+.thumbnail {
+	width: 50%;
+	border-radius: 0px;
+}
+
+.container {
+	margin-top: 100px;
+}
+
+.main-content {
+	background: #ffffff;
+	width: 500px;
+	margin-left: 27%;
+	padding: 15px;
+	-webkit-box-shadow: -1px 3px 40px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 3px 40px -6px rgba(0,0,0,0.75);
+	box-shadow: -1px 3px 40px -6px rgba(0,0,0,0.75);
+}
+
+.text-muted > p {
+	margin-bottom: 0px;
+}
