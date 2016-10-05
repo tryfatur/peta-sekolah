@@ -23,8 +23,7 @@ url  = url.split('/');
 // type = url[3].split('.');
 
 /* Production */
-type = url[1].split('.');
-
+type = url[2].split('.');
 
 if (type[0] == "sd") {
 	color = "#E62129";
