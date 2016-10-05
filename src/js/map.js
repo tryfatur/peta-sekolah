@@ -17,13 +17,14 @@ function onEachFeature(feature, layer) {
 var url, type, color, source;
 
 url  = window.location.pathname;
-
-console.log(url);
-
 url  = url.split('/');
-type = url[3].split('.');
 
-console.log(test.split('/'));
+/* Development */
+// type = url[3].split('.');
+
+/* Production */
+type = url[1].split('.');
+
 
 if (type[0] == "sd") {
 	color = "#E62129";
