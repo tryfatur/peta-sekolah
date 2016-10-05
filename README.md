@@ -8,5 +8,5 @@ Visualisasi lokasi sekolah di Kota Bandung dengan memanfaatkan data pokok pendid
 
 # Sumber Data
 - [Data Sekolah Dasar (SD) di Kota Bandung] (http://data.bandung.go.id/dataset/data-sekolah-dasar-sd-di-kota-bandung)
-- Data Sekolah Menengah Pertama (SMP) di Kota Bandung] (http://data.bandung.go.id/dataset/data-sekolah-menengah-pertama-smp-di-kota-bandung)
+- [Data Sekolah Menengah Pertama (SMP) di Kota Bandung] (http://data.bandung.go.id/dataset/data-sekolah-menengah-pertama-smp-di-kota-bandung)
 - [Data Sekolah Menengah Atas dan Kejuruan (SMA/SMK) di Kota Bandung] (http://data.bandung.go.id/dataset/data-sekolah-menengah-atas-dan-kejuruan-sma-smk-di-kota-bandung)
