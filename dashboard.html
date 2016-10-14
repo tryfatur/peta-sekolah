@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Dashboard Statistik Sekolah di Kota Bandung</title>
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="src/css/AdminLTE.min.css">
+	<link rel="stylesheet" href="src/css/_all-skins.min.css">
+	<link rel="stylesheet" href="src/css/dataTables.bootstrap.min.css">
+</head>
+<!-- ADD THE CLASS layout-top-nav TO REMOVE THE SIDEBAR. -->
+<body class="hold-transition skin-blue layout-top-nav">
+<div class="wrapper">
+	<header class="main-header">
+		<nav class="navbar navbar-static-top">
+			<div class="container">
+				<div class="navbar-header">
+					<a href="#" class="navbar-brand">
+						<i class="fa fa-fw fa-dashboard"></i> <b>Dashboard</b> Data Sekolah di Kota Bandung
+					</a>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+						<i class="fa fa-bars"></i>
+					</button>
+				</div>
+			</div>
+			<!-- /.container-fluid -->
+		</nav>
+	</header>
+	<!-- Full Width Column -->
+	<div class="content-wrapper">
+		<div class="container">
+			<!-- Main content -->
+			<section class="content">
+				
+				<div class="row">
+					<div class="col-lg-3 col-xs-6">
+						<div class="small-box bg-red">
+							<div class="inner">
+								<h3 id="jumlahSD"></h3>
+								<p>Sekolah Dasar <small>dan Sederajat</small></p>
+							</div>
+							<div class="icon">
+								<i class="fa fa-fw fa-building"></i>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-xs-6">
+						<div class="small-box bg-yellow">
+							<div class="inner">
+								<h3 id="jumlahSMP"></h3>
+								<p>Sekolah Menengah Pertama <small>dan Sederajat</small></p>
+							</div>
+							<div class="icon">
+								<i class="fa fa-fw fa-building"></i>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-xs-6">
+						<div class="small-box bg-green">
+							<div class="inner">
+								<h3 id="jumlahSMA"></h3>
+								<p>Sekolah Menengah Atas <small>dan Sederajat</small></p>
+							</div>
+							<div class="icon">
+								<i class="ion ion-pie-graph"></i>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-xs-6">
+						<div class="small-box bg-green">
+							<div class="inner">
+								<h3 id="jumlahSMK"></h3>
+								<p>Sekolah Menengah Kejuruan <small>dan Sederajat</small></p>
+							</div>
+							<div class="icon">
+								<i class="ion ion-pie-graph"></i>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-3 col-xs-6">
+						<div class="info-box">
+							<span class="info-box-icon bg-red"><i class="fa fa-star-o"></i></span>
+							<div class="info-box-content">
+								<span class="info-box-text">Sekolah Dasar</span>
+								<span class="info-box-number">813</span>
+							</div><!-- /.info-box-content -->
+						</div><!-- /.info-box -->
+					</div>
+					<div class="col-lg-3 col-xs-6">
+						<div class="info-box">
+							<span class="info-box-icon bg-yellow"><i class="fa fa-star-o"></i></span>
+							<div class="info-box-content">
+								<span class="info-box-text">Sekolah Menengah Pertama</span>
+								<span class="info-box-number">xxx</span>
+							</div><!-- /.info-box-content -->
+						</div><!-- /.info-box -->
+					</div>
+					<div class="col-lg-3 col-xs-6">
+						<div class="info-box">
+							<span class="info-box-icon bg-grey"><i class="fa fa-star-o"></i></span>
+							<div class="info-box-content">
+								<span class="info-box-text">Sekolah Menengah Atas</span>
+								<span class="info-box-number">xxx</span>
+							</div><!-- /.info-box-content -->
+						</div><!-- /.info-box -->
+					</div>
+					<div class="col-lg-3 col-xs-6">
+						<div class="info-box">
+							<span class="info-box-icon bg-grey"><i class="fa fa-star-o"></i></span>
+							<div class="info-box-content">
+								<span class="info-box-text">Sekolah Menengah Kejuruan</span>
+								<span class="info-box-number">xxx</span>
+							</div><!-- /.info-box-content -->
+						</div><!-- /.info-box -->
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-6 col-xs-6">
+						<div class="box box-danger">
+							<div class="box-header">
+								<div class="box-title">
+									<h4><b>Status Kepemilikan Sekolah</b></h4>
+								</div>
+							</div>
+							<div class="box-body"></div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-xs-6">
+						<div class="box box-danger">
+							<div class="box-header">
+								<div class="box-title">
+									<h4><b>Jumlah Sekolah Berkebutuhan Khusus</b></h4>
+								</div>
+							</div>
+							<div class="box-body"></div>
+						</div>
+					</div>
+				</div>
+
+				<div class="box box-primary">
+					<div class="box-header">
+						<h3 class="box-title">
+							<b>Data Sekolah Per Kecamatan</b>
+						</h3>
+						<div class="box-tools pull-right">
+							<button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+							</button>
+						</div>
+					</div>
+					<div class="box-body">
+						<select class="form-control" id="listKecamatan"></select>
+						<div id="mainStatistik">
+							<div class="text-center">
+								<h3><b>Statistik Sekolah</b></h3>
+								<hr />
+							</div>
+							<div class="row">
+								<div class="col-md-4">
+									<div class="box box-success box-solid">
+										<div class="box-header with-border">
+											<h3 class="box-title">Jenjang Pendidikan</h3>
+										</div>
+										<div class="box-body">
+											<div id="jenjangPendidikan"></div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="box box-danger box-solid">
+										<div class="box-header with-border">
+											<h3 class="box-title">Sekolah Negeri</h3>
+										</div>
+										<div class="box-body">
+											<div id="jenisSekolahNegeri"></div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="box box-warning box-solid">
+										<div class="box-header with-border">
+											<h3 class="box-title">Sekolah Swasta</h3>
+										</div>
+										<div class="box-body">
+											<div id="jenisSekolahSwasta"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-4">
+									<div class="box box-success box-solid">
+										<div class="box-header with-border">
+											<h3 class="box-title">Sekolah Berkebutuhan Khusus</h3>
+										</div>
+										<div class="box-body">
+											<div id="kebutuhanKhusus"></div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="box box-danger box-solid">
+										<div class="box-header with-border">
+											<h3 class="box-title">Status Kepemilikan</h3>
+										</div>
+										<div class="box-body">
+											<div id="kepemilikanSekolah"></div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-4">
+									<div class="box box-warning box-solid">
+										<div class="box-header with-border"></div>
+										<div class="box-body"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="hidden-sm hidden-xs">
+					<div class="box box-success">
+						<div class="box-header">
+							<h3 class="box-title">
+								<b>Data Sekolah di Kota Bandung</b>
+							</h3>
+							<div class="box-tools pull-right">
+								<button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+								</button>
+							</div>
+						</div>
+						<div class="box-body">
+							<table id="dataSekolah" class="table table-bordered table-hover">
+								<thead>
+									<tr>
+										<th>NPSN</th>
+										<th>Nama</th>
+										<th>Jenjang Pendidikan</th>
+										<th>Alamat</th>
+										<th>Status Kepemilikan</th>
+									</tr>
+								</thead>
+							</table>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- /.content -->
+		</div>
+		<!-- /.container -->
+	</div>
+	<!-- /.content-wrapper -->
+	<footer class="main-footer">
+		<div class="container">
+			<div class="pull-right hidden-xs">
+				<a href="http://data.bandung.go.id"><strong>Tim Open Data Kota Bandung</strong></a>
+			</div>
+			Data oleh <strong>Dinas Pendidikan Kota Bandung</strong>. Visualisasi oleh <strong>Dinas Komunikasi dan Informatika Kota Bandung</strong>
+		</div>
+	</footer>
+</div>
+<!-- ./wrapper -->
+
+<script src="src/js/jquery.min.js"></script>
+<script src="src/js/bootstrap.min.js"></script>
+<script src="src/js/jquery.slimscroll.min.js"></script>
+<script src="src/js/app.min.js"></script>
+<script src="src/js/jquery.dataTables.min.js"></script>
+<script src="src/js/dataTables.bootstrap.min.js"></script>
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-3d.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+<script src="src/js/datalengkap.js"></script>
+<script src="src/js/datakecamatan.js"></script>
+<script src="src/js/statistik.js"></script>
+
+</body>
+</html>
