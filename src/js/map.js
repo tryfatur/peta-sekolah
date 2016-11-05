@@ -11,9 +11,16 @@ tileLayer.addTo(map);
 L.MakiMarkers.accessToken = L.mapbox.accessToken;
 
 function onEachFeature(feature, layer) {
-	text = "<b>" + feature.properties.nama + "</b>";
+	text = "<h2><b>" + feature.properties.nama + "</b></h2>";
 	text += "<p>" + feature.properties.alamat_jalan + "</p>";
-	text += "<p>" + "Kel." + feature.properties.desa_kelurahan_id + ", " + feature.properties.kecamatan + "</p>";
+	text += "<p>" + "Kel." + feature.properties.desa_kelurahan_nama + ", Kec. " + feature.properties.kecamatan_nama + "</p>";
+	text += "<p>" + "Jumlah PTK: " + feature.properties.ptk + "</p>";
+	text += "<p>" + "Jumlah Pegawai: " + feature.properties.pegawai + "</p>";
+	text += "<p>" + "Jumlah Peserta Didik: " + feature.properties.pd + "</p>";
+	text += "<p>" + "Jumlah Rombongan Belajar: " + feature.properties.rombel + "</p>";
+	text += "<p>" + "Jumlah Ruang Kelas: " + feature.properties.ruang_kelas + "</p>";
+	text += "<p>" + "Jumlah Perpustakaan: " + feature.properties.jml_perpus + "</p>";
+	text += "<p>" + "Jumlah Laboratorium: " + feature.properties.jml_lab + "</p>";
 	
 	layer.bindPopup(text);
 }
