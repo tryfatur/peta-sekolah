@@ -1,9 +1,11 @@
 L.mapbox.accessToken = 'pk.eyJ1IjoidHJ5ZmF0dXIiLCJhIjoiY2lxdDJ5d3R1MDAydmZybmh3a3VtcmFvMiJ9.lL9RoXOtTscOHiSvOCrL-Q';
-var map              = L.mapbox.map('map').setView([-6.909620, 107.634553], 13);
-var tileLayer        = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{x}/{y}?access_token=' + L.mapbox.accessToken);
-var info             = L.control();
-var optionData       = L.control();
-var marker           = L.FeatureGroup();
+
+var map        = L.mapbox.map('map').setView([-6.909620, 107.634553], 13);
+var tileLayer  = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{x}/{y}?access_token=' + L.mapbox.accessToken);
+var info       = L.control();
+var optionData = L.control();
+var marker     = L.FeatureGroup();
+var cluster    = L.markerClusterGroup();
 var geojson;
 var text;
 
@@ -56,34 +58,41 @@ function setMap(source, color){
 			},
 			onEachFeature: onEachFeature
 		});
+
+		// Clustering Pointer
+		cluster.clearLayers();
+		cluster.addLayer(geojson);
+		map.addLayer(cluster);
+
 		tileLayer.addTo(map);
-		geojson.addTo(map);
+		// geojson.addTo(map);
 	});
 }
 
 $("#jenjang").on('change', function() {
+	map.options.maxZoom = 18;
 	if (this.value == "sd") {
 		map.eachLayer(function (layer) {
-			map.removeLayer(layer)
+			map.removeLayer(layer);
 		});
-		setMap('src/json/data-sd.json', '#E62129');
 
+		setMap('src/json/data-sd.json', '#E62129');
 	} else if (this.value == "smp") {
 		map.eachLayer(function (layer) {
-			map.removeLayer(layer)
+			map.removeLayer(layer);
 		});
+
 		setMap('src/json/data-smp.json', '#FFF000');
 	} else if (this.value == "sma") {
 		map.eachLayer(function (layer) {
-			map.removeLayer(layer)
+			map.removeLayer(layer);
 		});
+
 		setMap('src/json/data-sma.json', '#6E3A3E');
 	} else {
 		tileLayer.addTo(map);
 	}
 });
-
-
 
 map.attributionControl.addAttribution('<a href="http://portal.bandung.go.id/">Pemerintah Kota Bandung</a> &copy; 2016');
 map.attributionControl.addAttribution('Dinas Pendidikan & Dinas Komunikasi dan Informatika');
