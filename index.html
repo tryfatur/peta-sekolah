@@ -1,41 +1,86 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Visualisasi Sekolah Kota Bandung</title>
-	<meta property="og:title" content="Peta Lokasi Sekolah Kota Bandung" />
-	<meta property="og:url" content="http://data.bandung.go.id/visualisasi" />
-	<link rel="stylesheet" type="text/css" href="https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css" />
-	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/lumen/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="src/css/style.css" />
+	<head>
+		<title>Visualisasi Lokasi Sekolah di Kota Bandung</title>
+		<meta charset=utf-8 />
+		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+		<meta property="og:title" content="Visualisasi Lokasi Sekolah di Kota Bandung" />
+		<meta property="og:url" content="http://data.bandung.go.id/visualisasi" />
+		<meta property="og:image" content="preview.png" />
+		
+		<link rel="shortcut icon" href="src/img/pemkot.png" type="image/png">
+		<link rel="icon" href="src/img/pemkot.png" type="image/png">
 
-	<link rel="icon" type="image/png" href="src/img/pemkot.png">
-</head>
-<body>
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="src/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="src/css/mapbox.min.css" />
+		<link rel="stylesheet" type="text/css" href="src/css/style.css">
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.css">
+		<link rel="stylesheet" type="text/css" href="src/css/MarkerCluster.Default.css">
+	</head>
+	<body>
+		<nav class="navbar navbar-blue navbar-static-top" role="navigation">
+			<div class="container">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-map">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#"><i class="fa fa-fw fa-graduation-cap"></i> Visualisasi Lokasi Sekolah di Kota Bandung</a>
+					</div>
+					<div class="collapse navbar-collapse navbar-map">
+						<ul class="nav navbar-nav navbar-right">
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+									<i class="fa fa-fw fa-user"></i> Pilih Jenjang <span class="caret"></span>
+								</a>
+								<ul class="dropdown-menu">
+									<li><a href="#" onclick="jenjangSekolah(1);"><i class="fa fa-fw fa-building"></i> Sekolah Dasar (SD)</a></li>
+									<li><a href="#" onclick="jenjangSekolah(2);"><i class="fa fa-fw fa-exclamation-triangle"></i> Sekolah Menengah Pertama (SMP)</a></li>
+									<li><a href="#" onclick="jenjangSekolah(3);"><i class="fa fa-fw fa-registered"></i> Sekolah Menengah Atas (SMA)</a></li>
+									<li role="separator" class="divider"></li>
+									<li><a href="#">Data Dinas Pendidikan Kota Bandung</a></li>
+								</ul>
+							</li>
+							</li>
+							<li><a href="#tentangModal" data-toggle="modal"><i class="fa fa-fw fa-info-circle"></i>Tentang</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
 
-	<div class="container">
-		<div class="main-content text-center">
-			<h1><i class="fa fa-fw fa-graduation-cap"></i> Sekolah Kota Bandung</h1>
-			<hr style="width: 50%" />
-			<p>
-				<a href="visualisasi.html" target="_blank" class="btn btn-lg btn-danger">
-					<i class="fa fa-fw fa-map-marker"></i> Visualisasi Lokasi Sekolah
-				</a>
-			</p>
-			<p>
-				<a href="dashboard.html" target="_blank" class="btn btn-lg btn-primary">
-					<i class="fa fa-fw fa-dashboard"></i> Dashboard Data Sekolah
-				</a>
-			</p>
-			<hr style="width: 50%" />
-			<div class="text-muted">
-				<p>Pemerintah Kota Bandung &copy; 2016</p>
-				<p>Dinas Pendidikan & Dinas Komunikasi dan Informatika</p>
+		<div id="map"></div>
+
+		<div class="modal fade" id="tentangModal">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title"><i class="fa fa-fw fa-info-circle"></i> Tentang Visualisasi Lokasi Sekolah Kota Bandung</h4>
+					</div>
+					<div class="modal-body text-center">
+						<p><b>Data</b> oleh <b>Dinas Pendidikan Kota Bandung</b></p>
+						<p><b>Visualisasi</b> oleh <b>Tim Open Data Kota Bandung</b></p>
+					</div>
+					<div class="modal-footer">
+						<p class="text-muted text-center">&copy; 2017 - Diskominfo & Disdik Kota Bandung</p>
+					</div>
+				</div>
 			</div>
 		</div>
-	</div>
 
-	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-</body>
+		<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+		<script src="https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="src/js/leaflet.ajax.min.js"></script>
+		<script src="src/js/Leaflet.MakiMarkers.js"></script>
+		<script src="src/js/leaflet.markercluster.js"></script>
+		<script src="src/js/bdgmap.js"></script>
+		<script src="src/js/map.js"></script>
+	</body>
 </html>
